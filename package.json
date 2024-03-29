@@ -1,0 +1,36 @@
+{
+  "name": "cipher-quantum-detective",
+  "version": "1.0.0",
+  "description": "Detects patterns in quantum ciphers, enhancing security and data encryption methodologies.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/cipher-quantum-detective"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "azure-spirit-tracker": "1.0.0",
+    "chronos-tide-watcher": "1.0.0",
+    "firebase": "1.0.0",
+    "web3": "1.0.0",
+    "express": "1.0.0",
+    "request": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "eslint": "1.0.0",
+    "sinon": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "mongoose": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "helmet": "1.0.0",
+    "dotenv": "1.0.0",
+    "bluebird": "1.0.0",
+    "node-sass": "1.0.0",
+    "jquery": "1.0.0"
+  }
+}
